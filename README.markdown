@@ -25,13 +25,11 @@ Notice the difference in column widths and margins across the two rows.
 ### My Nested Responsive Grid
 I hated that. So in my system, a &ldquo;3&rdquo; sub-column would equal the width of a standalone 3 column
 
-<pre>&lt;div class="row">
+<pre>&lt;div class="container">
 	&lt;div class="span6">
 		6
-		&lt;div class="row">
 			&lt;div class="span3">3&lt;/div>
 			&lt;div class="span3">3&lt;/div>
-		&lt;/div>
 	&lt;/div>
 &lt;/div></pre>
 
