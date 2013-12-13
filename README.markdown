@@ -38,3 +38,5 @@ I hated that. So in my system, a &ldquo;3&rdquo; sub-column would equal the widt
 ![Nested Responsive Grid Demo](https://github.com/davist11/nested-responsive-grid/raw/master/images/nested.png)
 
 Notice the how the column widths and margins are maintained across the two rows.
+
+CharlieTriplett's fork adds padding options and up to 3 levels to the span structure and a media query.
